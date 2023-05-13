@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkott_platform_test=self.webpackChunkott_platform_test||[]).push([[463],{463:(t,e,b)=>{b.r(e),b.d(e,{default:()=>s});const s=b.p+"57e30e483bb184bc63b9bbca4e7f092d.jpg"}}]);

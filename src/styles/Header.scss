@@ -1,0 +1,33 @@
+header {
+  color: white;
+  position: fixed;
+  width: -webkit-fill-available;
+  background-repeat: no-repeat;
+  display: grid;
+  grid-template-columns: 10% 50% 40%;
+  align-items: center;
+  margin: -50px 29px 0px 14px;
+  height: 172px;
+  .header-title {
+    font-size: 20px;
+  }
+  .button {
+    border: none;
+    background: none;
+    width: 25px;
+    &.search {
+      justify-self: right;
+    }
+  }
+  .header-search {
+    justify-self: right;
+    input {
+      border-radius: 25px;
+      height: 25px;
+      padding: 0px 10px;
+      &:focus-visible {
+        outline: none;
+      }
+    }
+  }
+}
