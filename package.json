@@ -2,8 +2,8 @@
   "name": "ott-platform-test",
   "version": "1.0.0",
   "description": "",
-  "main": "index.tsx",
-  "homepage": "http://sapanrajdev.github.io/articles-page",
+  "main": "src/index.tsx",
+  "homepage": "http://sapanrajdev.github.io",
   "scripts": {
     "test": "",
     "start": "webpack serve --port 3000",
