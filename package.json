@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "src/index.tsx",
-  "homepage": "http://sapanrajdev.github.io",
+  "homepage": "https://sapanrajdev.github.io/",
   "scripts": {
     "test": "",
     "start": "webpack serve --port 3000",
